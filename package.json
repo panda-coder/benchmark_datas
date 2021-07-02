@@ -1,0 +1,26 @@
+{
+  "name": "benchmark_datas",
+  "version": "1.0.0",
+  "description": "",
+  "main": "run.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/panda-coder/benchmark_datas.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/panda-coder/benchmark_datas/issues"
+  },
+  "homepage": "https://github.com/panda-coder/benchmark_datas#readme",
+  "dependencies": {
+    "avro-js": "^1.10.2",
+    "glob": "^7.1.7",
+    "nanobench": "^2.1.1",
+    "simdjson": "^0.9.2"
+  }
+}
